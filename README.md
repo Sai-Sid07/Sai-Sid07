@@ -1,6 +1,6 @@
 ![MasterHead](https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&h=500&q=80)
 <h1 align="center">Hey There 👋, Sai Sidharth here</h1>
-<h3 align="center">A passionate Computer Science Engineer hailing from South India! I love tech and love tinkering and playing around with things to get a better understanding about how things work. I'm currently in my 3rd Year, pursuing my B.Tech Degree from Amrita Vishwa Vidyapeetham, Ettimadai. 
+<h3 align="center">A passionate Computer Science Engineer hailing from South India! I love tech and love tinkering and playing around with things to get a better understanding about how things work. I'm currently working as a Software Engineer after completing my B.Tech Degree from Amrita Vishwa Vidyapeetham, Ettimadai. 
 I love travelling, meeting new people, trying out new things and living my life to the fullest.</h3>
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
@@ -8,7 +8,7 @@ I love travelling, meeting new people, trying out new things and living my life 
 
 - 🌱 I’m currently learning **ReactJS, Machine Learning with Python and solving new Leetcode problems to improve my DSA.**
 
-- 💬 Ask me about **JavaScript, Java, DSA, Personal Finance and any topic since it'll be learning experience for the both of us.**
+- 💬 Ask me about **JavaScript, Java, Springboot, DSA, Personal Finance and any topic since it'll be learning experience for the both of us.**
 
 - 📫 Reach me through my E-mail  **shrichit69@gmail.com**
 
