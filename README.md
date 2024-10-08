@@ -15,7 +15,7 @@ I love travelling, meeting new people, trying out new things and living my life 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ssidhrth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ssidhrth" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sai-sidharth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-sidharth" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sai-sidharth-72a805210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sai-sidharth" height="30" width="40" /></a>
 <a href="https://instagram.com/saisid____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saisid____" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sai-sid07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sai-sid07" height="30" width="40" /></a>
 </p>
